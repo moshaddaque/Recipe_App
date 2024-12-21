@@ -5,7 +5,7 @@ This is a recipe app where i include some recipe blogs, recipe videos from youtu
 
 In This project I include api calls, google sheet as a database, youtube_video_player for play video..
 
-I used here some packages:
+#I used here some packages:
   http: ^1.2.2
   get: ^4.6.6
   google_fonts: ^6.2.1
@@ -13,10 +13,16 @@ I used here some packages:
   animated_notch_bottom_bar: ^1.0.3
   youtube_player_flutter: ^9.1.1
 
-  Screenshots:
+<h3>Screenshots:</h3>
+  <img src="https://github.com/moshaddaque/Recipe_App/blob/main/screenshots/home.jpg"height="300"/>
+  <img src="https://github.com/moshaddaque/Recipe_App/blob/main/screenshots/video_list.jpg"height="300"/>
+  <img src="https://github.com/moshaddaque/Recipe_App/blob/main/screenshots/details.jpg"height="300"/>
+  <img src="https://github.com/moshaddaque/Recipe_App/blob/main/screenshots/video_player_details.jpg"height="300"/>
+  <img src="https://github.com/moshaddaque/Recipe_App/blob/main/screenshots/settings.jpg"height="300"/>
+  <img src="https://github.com/moshaddaque/Recipe_App/blob/main/screenshots/search.jpg"height="300"/>
+<br/><br/>
 
-
-  apk link: https://drive.google.com/file/d/1IYAB--C8qpInR6smeLV8e_EPsb11g7Nf/view?usp=sharing
+  <b>apk link:</b> https://drive.google.com/file/d/1IYAB--C8qpInR6smeLV8e_EPsb11g7Nf/view?usp=sharing
 
   
 
